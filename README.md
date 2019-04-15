@@ -20,7 +20,6 @@ This code provides the fusion of PANchromatic (PAN) and MultiSpectral (MS) image
     
     6) Fine-tuning the gains of edge detectors using PSO algorithm
 
-![PSO](https://user-images.githubusercontent.com/48659018/56169672-87da0b80-5fa4-11e9-9bad-0eec2ea1dfb8.gif)
 
 
 Objective Function
