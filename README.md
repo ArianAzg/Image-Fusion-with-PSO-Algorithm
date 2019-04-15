@@ -34,3 +34,10 @@ For example:
 
     Addpath QuickBird_Data
 The Main_PSO.m is the main framework of the proposed fusion framework. The _pre-processing_ steps as well as the obtaining _fusion outcome_ is put into this M-file. 
+
+
+
+Contact
+--------
+    If you have any question regarding the paper, codes and so on, do not hesitate to contact me. 
+    Arian Azarang (azarang@utdallas.edu)
