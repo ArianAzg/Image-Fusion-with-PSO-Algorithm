@@ -16,6 +16,9 @@ This code provides the fusion of PANchromatic (PAN) and MultiSpectral (MS) image
     
     6) Fine-tuning the gains of edge detectors using PSO algorithm
 
+![PSO](https://user-images.githubusercontent.com/48659018/56169672-87da0b80-5fa4-11e9-9bad-0eec2ea1dfb8.gif)
+
+
 Objective Function
 --------------
 For the purpose of optimizing the gains of edge detectors, the ERGAS metric is minimized. This metric is one of the widely used metrics for the objective evaluation of fusion results. 
