@@ -1,1 +1,1 @@
-# Pansharpening-with-PSO-Algorithm
+# Pansharpening with PSO Algorithm
