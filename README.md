@@ -18,4 +18,11 @@ This code provides the fusion of PANchromatic (PAN) and MultiSpectral (MS) image
 
 Objective Function
 --------------
-For the purpose of optimizing the gains of edge detectors, the ERGAS metric is minimized. 
+For the purpose of optimizing the gains of edge detectors, the ERGAS metric is minimized. This metric is one of the widely used metrics for the objective evaluation of fusion results. 
+
+Usage
+------------
+In order to run the code, first you need to specify the path of your dataset.
+For example:
+
+    Addpath QuickBird_Data
