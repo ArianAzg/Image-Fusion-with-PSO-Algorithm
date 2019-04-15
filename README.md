@@ -22,7 +22,7 @@ This code provides the fusion of PANchromatic (PAN) and MultiSpectral (MS) image
 
 
 
-Objective Function
+Loss Function
 --------------
 For the purpose of optimizing the gains of edge detectors, the ERGAS metric is minimized. This metric is one of the widely used metrics for the objective evaluation of fusion results. 
 
@@ -31,10 +31,14 @@ Usage
 In order to run the code, first you need to specify the path of your dataset.
 For example:
 
-    Addpath QuickBird_Data
+    addpath QuickBird_Data
 The Main_PSO.m is the main framework of the proposed fusion framework. The _pre-processing_ steps as well as the obtaining _fusion outcome_ is put into this M-file. 
 
+Objective Evaluation
+----------
+For objective assessment of the fusion result, first add the path of objective metric. For example: 
 
+    addpath Objective_Evaluation
 
 Contact
 --------
