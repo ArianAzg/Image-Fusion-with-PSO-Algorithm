@@ -39,5 +39,5 @@ The Main_PSO.m is the main framework of the proposed fusion framework. The _pre-
 
 Contact
 --------
-    If you have any question regarding the paper, codes and so on, do not hesitate to contact me. 
-    Arian Azarang (azarang@utdallas.edu)
+If you have any question regarding the paper, codes and so on, do not hesitate to contact me. 
+Arian Azarang  [azarang@utdallas.edu]
