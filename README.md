@@ -53,6 +53,12 @@ Sample Output
 ![PAN](https://user-images.githubusercontent.com/48659018/56171559-603a7180-5fab-11e9-8626-c1103ca22e6d.png)
 ![Pansharpened](https://user-images.githubusercontent.com/48659018/56171570-6892ac80-5fab-11e9-86be-8f86e797e974.png)
 
+Reference
+--------
+If you find this code helpful, please cite this paper: 
+
+    A. Azarang and H. Ghassemian, "An adaptive multispectral image fusion using particle swarm optimization," in Proc. Iranian Conf. Elec. Eng. (ICEE), May 2017, pp. 1708-1712.
+
 Contact
 --------
 If you have any question regarding the paper, codes and so on, do not hesitate to contact me. 
