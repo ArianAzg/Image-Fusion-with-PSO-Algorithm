@@ -28,11 +28,15 @@ For the purpose of optimizing the gains of edge detectors, the ERGAS metric is m
 
 Usage
 ------------
-In order to run the code, first you need to specify the path of your dataset.
+First you need to specify the path of your dataset.
 For example:
 
     addpath QuickBird_Data
 The Main_PSO.m is the main framework of the proposed fusion framework. The _**pre-processing**_ steps as well as the obtaining _**fusion outcome**_ is put into this M-file. The ERGAS_Index.m and ERGAS.m files are used for the purpose of optimization. The optimized gains of _**edge detectors**_ are computed as the output of of PSO algorithm. 
+
+To _run_ the code, in the _command window_ use this: 
+
+    Main_PSO.m
 
 Objective Evaluation
 ----------
