@@ -44,6 +44,12 @@ For objective assessment of the fusion result, first add the path of objective m
 
     addpath Objective_Evaluation
 
+Sample Output
+-----------
+    
+    The MS, PAN and pansharpened result of the QuickBird dataset from Sandarbans, Bangladesh. 
+
+
 Contact
 --------
 If you have any question regarding the paper, codes and so on, do not hesitate to contact me. 
