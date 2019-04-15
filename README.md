@@ -53,7 +53,6 @@ Sample Output
 ![PAN](https://user-images.githubusercontent.com/48659018/56171559-603a7180-5fab-11e9-8626-c1103ca22e6d.png)
 ![Pansharpened](https://user-images.githubusercontent.com/48659018/56171570-6892ac80-5fab-11e9-86be-8f86e797e974.png)
 
-
 Contact
 --------
 If you have any question regarding the paper, codes and so on, do not hesitate to contact me. 
