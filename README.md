@@ -1,5 +1,9 @@
 # Multispectral Image Fusion with PSO Algorithm
 
+[An adaptive multispectral image fusion using particle swarm optimization
+](https://ieeexplore.ieee.org/abstract/document/7985325) is the paper for this MATLAB code.
+
+
 Description
 ----------
 This code provides the fusion of PANchromatic (PAN) and MultiSpectral (MS) images using the Particle Swarm Optimization (PSO) algorithm. The steps for fusion is as follows: 
@@ -29,3 +33,4 @@ In order to run the code, first you need to specify the path of your dataset.
 For example:
 
     Addpath QuickBird_Data
+The Main_PSO.m is the main framework of the proposed fusion framework. The _pre-processing_ steps as well as the obtaining _fusion outcome_ is put into this M-file. 
