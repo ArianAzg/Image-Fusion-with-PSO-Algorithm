@@ -49,6 +49,10 @@ Sample Output
     
     The MS, PAN and pansharpened result of the QuickBird dataset from Sandarbans, Bangladesh. 
 
+![LRMS](https://user-images.githubusercontent.com/48659018/56171542-5284ec00-5fab-11e9-93fb-a973ba1e8014.png)
+![PAN](https://user-images.githubusercontent.com/48659018/56171559-603a7180-5fab-11e9-8626-c1103ca22e6d.png)
+![Pansharpened](https://user-images.githubusercontent.com/48659018/56171570-6892ac80-5fab-11e9-86be-8f86e797e974.png)
+
 
 Contact
 --------
