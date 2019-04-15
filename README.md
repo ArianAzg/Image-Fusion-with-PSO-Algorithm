@@ -18,4 +18,4 @@ This code provides the fusion of PANchromatic (PAN) and MultiSpectral (MS) image
 
 Objective Function
 --------------
-For the purpose of
+For the purpose of optimizing the gains of edge detectors, the ERGAS metric is minimized. 
