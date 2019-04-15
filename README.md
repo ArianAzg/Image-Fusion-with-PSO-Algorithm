@@ -1,1 +1,1 @@
-# Pansharpening with PSO Algorithm
+# Multispectral Image Fusion with PSO Algorithm
